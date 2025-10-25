@@ -23,8 +23,8 @@ java ATM_System
 ✍️ Author  
 Bhuvaneshwari K – [LinkedIn](https://www.linkedin.com/in/bhuvaneshwari-k-624428258)
 
-![ATM Screenshot](demo/ATM_screenshot1.png)
-![ATM Screenshot](demo/ATM_screenshot2.png)
-![ATM Screenshot](demo/ATM_screenshot3.png)
+![ATM Screenshot](ATM_screenshot1.png)
+![ATM Screenshot](ATM_screenshot2.png)
+![ATM Screenshot](ATM_screenshot3.png)
 
 
